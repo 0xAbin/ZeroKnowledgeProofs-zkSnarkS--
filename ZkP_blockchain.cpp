@@ -79,11 +79,7 @@ int main()
       
    // algo 2 ;
   
-      #include <iostream>
-#include <cstdlib>
-#include <ctime>
-#include <vector>
-#include <unordered_map>
+
 
 // This struct represents a block in the blockchain
 struct Block
