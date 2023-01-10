@@ -75,8 +75,6 @@ int main()
       
    // algo 2 ;
   
-
-
 //  block in the blockchain
 struct Block
 {
@@ -156,8 +154,8 @@ int main()
 
   
   
-  //zkp test 2.0  
-    // smart contract
+  //zkp test 2.1
+   // smart contract
    
 
       
