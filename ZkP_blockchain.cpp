@@ -21,7 +21,7 @@ bool statement(mpz_class g, mpz_class y, mpz_class p, mpz_class x)
     return left == right;
 }
 
-
+// gc
 int generate_challenge()
 {
     
