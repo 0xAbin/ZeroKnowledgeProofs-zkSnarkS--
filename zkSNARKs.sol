@@ -5,3 +5,4 @@ contract zkSnarKs {
     constructor() {
     }
 }
+//test 1.0
