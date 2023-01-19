@@ -7,3 +7,4 @@ contract zkSnarKs {
 }
 //test 1.0
 //test 2.0 (update)
+//test 3.0 (error)
