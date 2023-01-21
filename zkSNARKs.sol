@@ -9,3 +9,4 @@ contract zkSnarKs {
 //test 2.0 (update)
 //test 3.0 (error)
 //test 3.1 (fail) 
+//test 3.2 fail
