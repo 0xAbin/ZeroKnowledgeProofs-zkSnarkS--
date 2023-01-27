@@ -17,5 +17,5 @@ contract zkSnarKs {
 //test 3 .7  fail
 //test 3.8 fail
 //test 3.9 fail
-//test 4.0 fail (merkle tree) 
+//test 4.0 fail (merkle tree)  // hx value (tree)
 
