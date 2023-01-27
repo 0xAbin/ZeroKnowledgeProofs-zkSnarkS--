@@ -16,4 +16,5 @@ contract zkSnarKs {
 //test 3.6 gas = gg
 //test 3 .7  fail
 //test 3.8 fail
+//test 3.9 fail
 
