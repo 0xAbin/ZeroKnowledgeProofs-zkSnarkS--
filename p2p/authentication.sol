@@ -21,4 +21,6 @@ contract P2PAuthentication {
     }
 }
 
-//p2p usd/inr etc test 1.0
+//p2p user to user 
+// (hx) -- (hx)  
+// (1- node )   (0 - node)  ---(p1- root)  ---(Main Root)smC---  (p2- root)  (0-node)  (1-node)
