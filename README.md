@@ -27,7 +27,7 @@ This is just a simple example to illustrate the basic idea of a Zero Knowledge P
 
 
 
-for beginners
+For Beginners
 
 Zero Knowledge Proofs (ZKPs) are a type of cryptographic protocol that allow one party (the prover) to prove to another party (the verifier) that they possess certain information, without revealing the actual information itself.
 
