@@ -22,3 +22,6 @@ contract zkSnarKs {
 //test 4.1 (parent node hx bug)
 //test 4.2 (-------end--------)
 
+
+//test 4.3 (hashing algo optimize)
+
