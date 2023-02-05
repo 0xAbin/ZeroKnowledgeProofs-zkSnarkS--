@@ -25,3 +25,5 @@ contract zkSnarKs {
 
 //test 4.3 (hashing algo optimize)
 //test 4.4 (Block Node 1.-)
+
+//test 4.5 (Block node key)
