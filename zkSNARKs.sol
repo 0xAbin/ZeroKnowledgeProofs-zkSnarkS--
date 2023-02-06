@@ -29,3 +29,6 @@ contract zkSnarKs {
 //test 4.5 (Block node key)
 
 //test 4.6(in 2d,3d arr test hx)
+
+
+POW (FOr  Node Valdidation (ZKP))    > POS
