@@ -27,3 +27,5 @@ contract zkSnarKs {
 //test 4.4 (Block Node 1.-)
 
 //test 4.5 (Block node key)
+
+//test 4.6(in 2d,3d arr test hx)
