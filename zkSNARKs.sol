@@ -32,3 +32,6 @@ contract zkSnarKs {
 
 
 POW (FOr  Node Valdidation (ZKP))    > POS
+
+
+//test 5.0 (Bugsggsgsgugs)
