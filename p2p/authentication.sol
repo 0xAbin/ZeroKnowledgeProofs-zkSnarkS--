@@ -24,3 +24,4 @@ contract P2PAuthentication {
 //p2p user to user 
 // (hx) -- (hx)  
 // (1- Left node )   (0 - Right node)  ---(p1- root)  ---(Main Root)smC---  (p2- root)  (0- Right node)  (1- Left node)
+//sol. c
