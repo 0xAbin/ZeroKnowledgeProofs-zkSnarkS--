@@ -38,3 +38,9 @@ Zero Knowledge Proofs have a number of applications, including enabling secure a
 One of the key features of Zero Knowledge Proofs is their "non-interactive" nature, which means that the prover and verifier do not need to have a shared secret in order to engage in the proof protocol. This makes Zero Knowledge Proofs particularly well-suited for use in distributed systems, such as blockchain networks, where the parties may not have a pre-existing relationship or shared secret.
 
 There are several different types of Zero Knowledge Proofs, including Interactive Proofs, Non-Interactive Proofs, and Succinct Non-Interactive Proofs (SNARKs). Each type of Zero Knowledge Proof has its own unique characteristics and trade-offs, and is well-suited for different types of applications.
+
+
+
+
+
+. lv Zk
